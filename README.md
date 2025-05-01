@@ -5,7 +5,7 @@
 🔭 I’m currently building production-grade crypto trading bots  
 🌱 I’m mastering advanced Web3 & smart-contract patterns  
 💬 Ask me about REST API design, performance tuning, and Ethers.js  
-⚡ Fun fact: I cook my own meals daily and produce EDM music 🎶
+⚡ Fun fact: I cook my own meals daily and hit gym 6 days a week.
 
 ### 🚀 Featured Projects
 | Project | Tech & Highlights |
