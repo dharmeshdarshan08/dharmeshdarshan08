@@ -31,4 +31,4 @@
 
 ### 📫 Let’s Connect
 
-🔗 [LinkedIn](https://linkedin.com/in/dharmesh-darshan8) · ✉️ dharmesh.darshan8@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/dharmesh-darshan/) · ✉️ dharmesh.darshan8@gmail.com  
