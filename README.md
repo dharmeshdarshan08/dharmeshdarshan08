@@ -34,11 +34,18 @@ I’m a **results-driven Full-Stack (MERN) Developer** with **3+ years of experi
 
 ---
 
-## 🔍 Profile Keywords (Search Optimized)
+<details>
+<summary><strong>🔍 Areas of Expertise</strong></summary>
 
-Full-Stack Developer, MERN Stack Developer, Node.js Developer, Backend Engineer,  
-React Developer, React Native Developer, JavaScript Engineer, Web3 Developer,  
-Blockchain Developer, Ethereum Developer, API Engineer, MongoDB Developer
+- Full-Stack MERN Development
+- Node.js Backend Engineering
+- React & React Native Applications
+- REST API Design & Performance Optimization
+- Blockchain & Web3 (Ethereum, BSC, Polygon)
+- MongoDB & Database Design
+- Secure Authentication (JWT, OAuth 2.0)
+
+</details>
 
 ---
 
@@ -87,16 +94,7 @@ Blockchain Developer, Ethereum Developer, API Engineer, MongoDB Developer
 - **React.js-based crypto platform**
 - Integrated wallet connections and **secure token transfers**
 - Successfully processed **50,000+ blockchain transactions**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true" height="165"/>
-</p>
-
+  
 ---
 
 ## ⭐ Why My GitHub Profile Stands Out
