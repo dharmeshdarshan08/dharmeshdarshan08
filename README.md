@@ -1,77 +1,97 @@
-👋 Hi, I’m Dharmesh Darshan
+# 👋 Hi, I'm Dharmesh Darshan
 
-Full-Stack (MERN) Developer
-Node.js | React.js | React Native | Blockchain (Ethers.js)
+### 🚀 Full-Stack (MERN) Developer  
+**Node.js | React.js | React Native | Blockchain (Ethers.js)**
 
-🔹 About Me
+I’m a results-driven Full-Stack Developer with **3+ years of experience** building scalable, production-grade applications. I specialize in backend systems, high-performance APIs, and blockchain integrations, with a strong focus on clean and maintainable code.
 
-3+ years building production-grade backend systems
+---
 
-Handling 10K+ requests/day with 99.9% uptime
+## 🧠 About Me
 
-Strong in REST API design and performance optimization (30–40% gains)
+- 💻 **3+ years** building production-grade backend systems  
+- ⚡ Handling **10K+ requests/day** with **99.9% uptime**  
+- 📈 Improved API performance by **30–40%** through optimization  
+- 🔗 Experience with **Ethereum, BSC, and Polygon** blockchain integrations  
+- 🧹 Strong believer in **clean, scalable, and maintainable code**
 
-Experience with blockchain integrations (Ethereum, BSC, Polygon)
+---
 
-Focused on clean, scalable, and maintainable code
+## 🛠 Tech Stack
 
-🔹 Featured Projects
-Outreach DApp
+**Frontend**
+- React.js
+- React Native
 
-MERN stack with Ethers.js
+**Backend**
+- Node.js
+- Express.js
 
-Multi-chain support (Ethereum, BSC, Polygon)
+**Databases**
+- MongoDB
+- MySQL
 
-Real-time transaction tracking for 1,000+ users
+**Blockchain**
+- Ethers.js
 
-DataHive – ERMS Archival System
+**Authentication**
+- JWT
 
-Built a Node.js + React-based ERMS archival platform
+**Tools & Practices**
+- Git
+- REST APIs
+- Performance Optimization
+- Secure API Design
 
-Handles TB-scale healthcare records
+---
 
-Optimized APIs and data access for high availability and reliability
+## 📌 Featured Projects
 
-Dabbavala (Tiffin App)
+### 🔹 Outreach DApp
+- MERN stack with **Ethers.js**
+- **Multi-chain support** (Ethereum, BSC, Polygon)
+- Real-time transaction tracking
+- Supported **1,000+ active users**
 
-React Native mobile application
+---
 
-Google & Facebook authentication
+### 🔹 DataHive – ERMS Archival System
+- Node.js + React-based ERMS platform
+- Handles **TB-scale healthcare records**
+- Optimized APIs for **high availability & reliability**
+- Focused on secure and efficient data access
 
-Firebase push notifications
+---
 
-University Website
+### 🔹 Dabbavala (Tiffin App)
+- React Native mobile application
+- Google & Facebook authentication
+- Firebase push notifications
+- User-friendly UI with real-time updates
 
-MERN stack application
+---
 
-Improved load time by 40% using lazy loading and API caching
+### 🔹 University Website
+- MERN stack web application
+- Improved load time by **40%** using:
+  - Lazy loading
+  - API caching
+- JWT-based **role access control**
 
-JWT-based role access control
+---
 
-Meme Coin Platform
+### 🔹 Meme Coin Platform
+- React.js-based crypto platform
+- Wallet integration & secure token transfers
+- Successfully processed **50K+ blockchain transactions**
 
-React.js-based crypto platform
+---
 
-Wallet integration and secure token transfers
+## 🌐 Connect With Me
 
-Processed 50K+ blockchain transactions
+- 💼 **LinkedIn:** [Dharmesh Darshan](https://www.linkedin.com/in/dharmesh-darshan)  
+- 📧 **Email:** dharmesh.darshan8@gmail.com
 
-🔹 Tech Stack
+---
 
-Frontend: React.js, React Native
-
-Backend: Node.js, Express.js
-
-Database: MongoDB, MySQL
-
-Blockchain: Ethers.js
-
-Auth: JWT
-
-Tools: Git, REST APIs
-
-🔹 Connect With Me
-
-LinkedIn: https://www.linkedin.com/in/dharmesh-darshan
-
-Email: dharmesh.darshan8@gmail.com
+⭐️ *If you like my work, feel free to star my repositories and connect with me!*
