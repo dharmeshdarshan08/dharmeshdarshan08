@@ -1,57 +1,77 @@
 👋 Hi, I’m Dharmesh Darshan
 
-🚀 Full-Stack (MERN) Developer
-Node.js · React.js · React Native · Blockchain (Ethers.js)
+Full-Stack (MERN) Developer
+Node.js | React.js | React Native | Blockchain (Ethers.js)
 
-I build scalable backend systems, high-performance APIs, and blockchain-enabled applications with a strong focus on reliability and clean architecture.
+🔹 About Me
 
-🧠 What I Do
+3+ years building production-grade backend systems
 
-🛠️ 3+ years building production-grade systems (10K+ req/day, 99.9% uptime)
+Handling 10K+ requests/day with 99.9% uptime
 
-⚡ REST API optimization & performance tuning (30–40% faster responses)
+Strong in REST API design and performance optimization (30–40% gains)
 
-🔐 Blockchain integrations (Ethereum, BSC, Polygon)
+Experience with blockchain integrations (Ethereum, BSC, Polygon)
 
-🧩 Clean, testable, and scalable codebases
+Focused on clean, scalable, and maintainable code
 
-✨ Featured Projects
-💻 Outreach DApp
+🔹 Featured Projects
+Outreach DApp
 
-MERN + Ethers.js (Ethereum, BSC, Polygon)
+MERN stack with Ethers.js
 
-📈 Real-time transaction tracking for 1,000+ users
+Multi-chain support (Ethereum, BSC, Polygon)
 
-📊 DataHive – ERMS Archival System
+Real-time transaction tracking for 1,000+ users
 
-⚙️ Node.js + React-based ERMS handling TB-scale healthcare records
+DataHive – ERMS Archival System
 
-🚀 High availability with optimized APIs & data access patterns
+Built a Node.js + React-based ERMS archival platform
 
-🥡 Dabbavala (Tiffin App)
+Handles TB-scale healthcare records
 
-📱 React Native app with Google/Facebook login
+Optimized APIs and data access for high availability and reliability
 
-🔔 Firebase push notifications
+Dabbavala (Tiffin App)
 
-🏫 University Website
+React Native mobile application
 
-MERN stack with lazy loading & API caching
+Google & Facebook authentication
 
-⚡ 40% faster load times, 🔒 JWT-based access control
+Firebase push notifications
 
-🪙 Meme Coin Platform
+University Website
 
-💼 React.js wallet integration
+MERN stack application
 
-🚀 50K+ secure token transactions
+Improved load time by 40% using lazy loading and API caching
 
-📫 Let’s Connect
+JWT-based role access control
 
-🔗 LinkedIn
+Meme Coin Platform
 
-✉️ dharmesh.darshan8@gmail.com
+React.js-based crypto platform
 
-⭐ Fun Fact
+Wallet integration and secure token transfers
 
-I enjoy solving real-world problems at scale, especially in healthcare and blockchain 🚀
+Processed 50K+ blockchain transactions
+
+🔹 Tech Stack
+
+Frontend: React.js, React Native
+
+Backend: Node.js, Express.js
+
+Database: MongoDB, MySQL
+
+Blockchain: Ethers.js
+
+Auth: JWT
+
+Tools: Git, REST APIs
+
+🔹 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/dharmesh-darshan
+
+Email: dharmesh.darshan8@gmail.com
