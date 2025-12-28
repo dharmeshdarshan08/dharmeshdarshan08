@@ -15,7 +15,7 @@
 - MERN + Ethers.js multi-chain (Ethereum, BSC, Polygon)  
 - 📈 Real-time tx tracking for 1,000+ users  
 
-**📊 DataHive – ERMS Archival System
+📊 DataHive – ERMS Archival System
 -⚙️ Built a Node.js + React-based ERMS archival system handling TB-scale healthcare records
 -🚀 Optimized API performance and data access patterns to ensure high availability and enterprise-grade reliability
 
