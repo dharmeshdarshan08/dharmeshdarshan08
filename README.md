@@ -104,11 +104,7 @@ I’m a **results-driven Full-Stack (MERN) Developer** with **3+ years of experi
 ## 🎓 Education
 
 🎓 **Master of Computer Applications (MCA)**  
-Guru Ghasidas Vishwavidyalaya (A++ NAAC)
-
-🎓 **B.Sc. Electronics (Hons)**  
-Guru Ghasidas Vishwavidyalaya
-
+Guru Ghasidas Vishwavidyalaya 
 ---
 
 ## 🌐 Let’s Connect
