@@ -26,15 +26,7 @@ I’m a **results-driven Full-Stack (MERN) Developer** with **3+ years of experi
 - 🔗 Blockchain integrations using **Ethereum, BSC & Polygon**
 - 🔐 Secure authentication with **JWT, OAuth 2.0, bcrypt**
 - 🧹 Writing **clean, scalable, and maintainable MERN code**
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
+  
 ---
 
 ## 🚀 Featured Projects
